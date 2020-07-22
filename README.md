@@ -14,7 +14,7 @@ Create an Angular 10 Reactive form with Angular Material forms - We'll be using 
 * Set Multiple Form Values Dynamically in Angular 10 and Angular Material Input Chips
 
 ## Step by step written article
-[You can get some experience from angular 8 reactive forms.](https://www.positronx.io/angular-8-reactive-forms-validation-with-angular-material-8/)
+[You can get some references from angular 8 reactive forms.](https://www.positronx.io/angular-8-reactive-forms-validation-with-angular-material-8/)
 
 ## Technologies used
 * Node v14.2.0
