@@ -134,5 +134,8 @@
       }
     }
   },
-  "defaultProject": "angular8-reactive-forms"
+  "defaultProject": "angular8-reactive-forms",
+  "cli": {
+    "analytics": "20323fdb-27b7-4b3b-b94c-29883589f9a2"
+  }
 }
