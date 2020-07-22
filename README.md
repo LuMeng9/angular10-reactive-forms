@@ -1,27 +1,26 @@
-# Angular8ReactiveForms
+# Angular10ReactiveForms
 
-Create an Angular 8 Reactive form with Angular Material forms - We'll be using Angular 8 ReactiveFormsModule API to build and validate Reactive forms.
+Create an Angular 10 Reactive form with Angular Material forms - We'll be using Angular 10 ReactiveFormsModule API to build and validate Reactive forms.
 
-* Setup Angular 8 Project
-* Implement Angular Material UI Library in Angular 8 Project
-* Set Up ReactiveFormsModule in Angular 8 App
-* Understand Reactive Forms API in Angular 8
-* Create Form using Reactive Form and Angular Material 8
-* Angular 8 Reactive Forms Validation with Angular Material 8
-* Working with Angular 8 Radio Buttons with Reactive Forms
-* How to work with Angular 8 Select Dropdown with Reactive Forms?
+* Setup Angular 10 Project
+* Implement Angular Material UI Library in Angular 10 Project
+* Set Up ReactiveFormsModule in Angular 10 App
+* Understand Reactive Forms API in Angular 10
+* Create Form using Reactive Form and Angular Material 10
+* Angular 10 Reactive Forms Validation with Angular Material 10
+* Working with Angular 10 Radio Buttons with Reactive Forms
+* How to work with Angular 10 Select Dropdown with Reactive Forms?
 * Working with Angular Material Datepicker using Reactive Forms
-* Set Multiple Form Values Dynamically in Angular 8 and Angular Material Input Chips
+* Set Multiple Form Values Dynamically in Angular 10 and Angular Material Input Chips
 
 ## Step by step written article
-[Angular 8 Reactive Forms Validation with Angular Material 8
-](https://www.positronx.io/angular-8-reactive-forms-validation-with-angular-material-8/)
+[You can get some experience from angular 8 reactive forms.](https://www.positronx.io/angular-8-reactive-forms-validation-with-angular-material-8/)
 
 ## Technologies used
-* Node v10.15.3
-* AngularCLI v8.0.0
-* Angular v8.0.0
-* Angular Material 8
+* Node v14.2.0
+* AngularCLI v10.0.3
+* Angular v10.0.4
+* Angular Material 10
 
 ##Installation Process
 Run `npm install` to install all the required dependencies
@@ -36,4 +35,4 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.# angular8-reactive-forms
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.# angular10-reactive-forms
